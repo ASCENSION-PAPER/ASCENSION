@@ -1,4 +1,4 @@
-dataset,max_accuracy_through_augmentation_steps_above_1,step_1_accuracy_improvement
+dataset,max_accuracy_through_augmentation,baseline_accuracy_improvement
 FordB,0.7790123456790123,-0.0012345679012345512
 FreezerRegularTrain,0.9933333333333332,0.0035087719298243503
 FreezerSmallTrain,0.8449122807017544,0.0094736842105263
